@@ -1,0 +1,44 @@
+
+Contributions
+
+
+IT22255488 : W.R.A.Vishva : 1.Add Question
+                                                        2.Upadate Question
+                                                        3.View Question
+                                                        4.View Results
+                                                        5.Update Question Set
+                                                        6.Delete Question
+                                                        7.View Results
+                                                        8.Exam
+                                                        9.Profile
+                                                        10.User Profile
+
+
+IT22306418 : V.G.A.Madinu : 1.Add Subject
+                                                        2.Upadate Subject
+                                                        3.Delete Subject
+                                                        4.Subject Profile
+                                                        5.View Subject
+                                                     
+IT22913210 : Shehani H.D.H : 1.Student Registration
+                                                         2.Instructor Regestration
+                                                         3.Student Login
+                                                         4.Instructor Login
+                                                         5.Admin Login
+                                                         6.Student Profile(Delete)
+                                                         7.Instructor Profile(Delete)
+                                                         8.Change Password
+                                    
+IT22254880 : Marasinghe M.A.C.S : 1.Add Notice
+                                                                   2.Edit Notice
+                                                                   3.Delete Notice
+                                                                   4.Notification(View)
+                                                               
+		
+
+		
+
+		
+
+		
+

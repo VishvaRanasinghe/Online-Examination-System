@@ -1,0 +1,56 @@
+$(document).ready(function(){
+	$('#contact-form').validate({
+	    rules: {
+
+             sname: {
+                 minlength: 6,
+                required: true
+
+                },
+
+	      username: {
+                nospace:true,
+	        minlength: 2,
+	        required: true
+	      },
+
+            passwd:{
+                required:true,
+                minlength: 6
+                },
+
+             conpasswd:{
+                     required:true,
+                    equalTo: "#passwd"
+                    },
+
+              sem:
+                {
+                    minlength: 1,
+                    required: true
+
+                },
+
+            email: {
+                    required: true,
+                    email: true
+                  },
+
+            number: {
+                minlength: 10,
+                number:true
+            }
+              },//rules close here
+
+highlight: function(element) {
+        $(element).closest('.control-group').removeClass('success').addClass('error');
+},
+success: function(element) {
+        element
+        .text('OK!').addClass('valid')
+        .closest('.control-group').removeClass('error').addClass('success');
+}
+           });
+
+
+}); 
