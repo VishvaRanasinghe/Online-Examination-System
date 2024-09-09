@@ -11,7 +11,7 @@ I'm excited to share a project I've been working on at the Sri Lanka Institute o
 🔹 **Key Features:**
 - **Exam Creation:** Allows educators to create exams with various question types, including multiple-choice, true/false, and essay questions.
 - **Automated Grading:** Automatically grades objective questions and provides tools for manual grading of subjective responses.
-- **User Management:** Manages profiles for students, educators, and administrators, ensuring secure access and role-based permissions.
+- **User Management:** Manages profiles for students, teacher, and administrators, ensuring secure access and role-based permissions.
 - **Analytics and Reporting:** Generates detailed reports and analytics to track student performance, exam statistics, and overall progress.
 
 **Technology Stack:**
